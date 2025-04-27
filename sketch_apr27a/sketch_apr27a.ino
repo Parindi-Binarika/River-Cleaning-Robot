@@ -1,6 +1,6 @@
 #include <NewPing.h>
 
-// Motor Pins (L298N Driver) 
+// Motor Pins  
 const int LeftMotorForward = 7;
 const int LeftMotorBackward = 6;
 const int RightMotorForward = 5;
